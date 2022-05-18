@@ -2,6 +2,6 @@
 
 This is my demo website to learn Git
 
-Edit on example branch
-
 Now editing on update-readme branch
+
+Updated locally
